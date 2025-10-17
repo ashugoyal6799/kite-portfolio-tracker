@@ -1,4 +1,4 @@
-# 📊 Daily Portfolio Updates - Kite Connect
+# 📊 Kite Portfolio Tracker
 
 A Node.js application that fetches your stock portfolio holdings from Zerodha Kite Connect and sends detailed reports via email.
 
@@ -32,8 +32,8 @@ A Node.js application that fetches your stock portfolio holdings from Zerodha Ki
 1. **Clone the repository**:
 
    ```bash
-   git clone <your-repo-url>
-   cd daily-updates-kite
+   git clone https://github.com/ashugoyal6799/kite-portfolio-tracker.git
+   cd kite-portfolio-tracker
    ```
 
 2. **Install dependencies**:
@@ -154,6 +154,11 @@ Generated Excel files are saved in the `output/` directory:
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
+
+## 🔗 Links
+
+- **Repository**: [https://github.com/ashugoyal6799/kite-portfolio-tracker](https://github.com/ashugoyal6799/kite-portfolio-tracker)
+- **Issues**: [Report bugs or request features](https://github.com/ashugoyal6799/kite-portfolio-tracker/issues)
 
 ## 📄 License
 
